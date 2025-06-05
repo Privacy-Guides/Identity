@@ -52,7 +52,7 @@ You may believe that you have nothing important on your system, but is that comp
 
 Do you save your passwords for your online accounts, banking websites and email addresses in your browser?
 
-What is your tolerance level if any of these accounts got hacked?
+What is your tolerance level if any of these accounts got hacked!
 
 Cyber criminals like to assemble the puzzle pieces of your online life that they obtain from various sources. They can later use your completed profile to steal your identity and wreak havoc.
 
