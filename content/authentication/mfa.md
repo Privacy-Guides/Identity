@@ -1,5 +1,3 @@
-# MFA
-
 ## Securing Online Accounts
 
 WHAT IS TWO-FACTOR AUTHENTICATION?
