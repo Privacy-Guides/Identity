@@ -1,4 +1,3 @@
-# Browser Hardening
 ### What does it mean to harden your browser?
 
 It is possible for cyber criminals to steal your personal information from your browser via malware embedded on the back-end of legitimate sites. A hardened browser is a browser that has had it's security features and general configuration adjusted to mitigates the risks & threats that users will encounter while browsing the web.
