@@ -2,8 +2,9 @@ name: Deploy Quartz site to GitHub Pages
  
 on:
   push:
-    branches:
-      - v4
+    branches: [main]
+  workflow_dispatch:   # ✅ Enables manual trigger in GitHub UI
+
  
 permissions:
   contents: read
