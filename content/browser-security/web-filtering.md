@@ -24,3 +24,4 @@ We recommend that you block the following general categories:
 - Web Based Email
 
 This list is by no means exhaustive and should only serve as a general guide. Your company's web filtering is also dependent on the environment in which the process is being applied.
+.
