@@ -1,4 +1,3 @@
-# 2FA
 ## Implement Two-Factor Authentication
 ### What is Two-Factor Authentication?
 
